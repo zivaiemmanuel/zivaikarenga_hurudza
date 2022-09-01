@@ -1,0 +1,52 @@
+body{
+    background: url(https://media.istockphoto.com/vectors/natural-product-organic-fruit-and-vegetables-vector-id1336523021?k=20&m=1336523021&s=612x612&w=0&h=6uDOgSuzaO_rq7zAjJniN6jrwtTQ69Oe0twp9VU1Ei0=)
+}
+
+.h1{
+   color: #FFFFFF;
+   font-family:Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+  text-align:center;
+  font-size: 60;
+}
+h5{
+  color: white;
+  text-align: center;
+}
+.h3{
+   color: #FFFFFF;
+   font-family:"Lucida Bright", Georgia, serif;
+  text-align:center;
+
+ 
+}
+
+.div1{
+  background: linear-gradient(50deg, green, white);
+  text-align: center; color:white;
+  border-radius: 25px;
+}
+.p1{
+  color: white;;
+}
+
+img{
+  border-radius: 10%;
+}
+
+.img1{
+display:block;
+margin-right: auto;
+margin-left: auto;
+}
+
+.div2{
+  background: white;
+  text-align: center;
+  border-radius: 25px;
+}
+ol{
+  color: green;
+}
+.div5{
+  background: white;
+}
